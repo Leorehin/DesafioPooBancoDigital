@@ -1,0 +1,21 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "cSpell.words": [
+        "agencia",
+        "cada",
+        "cliente",
+        "conta",
+        "conter",
+        "Corrente",
+        "deve",
+        "inexistente",
+        "numero",
+        "nunca",
+        "Poupanca",
+        "repetir"
+    ]
+}
